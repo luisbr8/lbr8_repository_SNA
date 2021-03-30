@@ -1,10 +1,10 @@
-﻿id;label
-HP;Harry Potter
-hermine;Hermine Granger
-dumbledore;Albus Dumbledore
-hagrid;Rubeus Hagrid
-neville;Neville Longbottom
-ginny;Ginny Weasley
-george;George Weasley
-fred;Fred Weasley
-ron;Ron Weasley
+id,label
+HP,Harry Potter
+hermine,Hermine Granger
+dumbledore,Albus Dumbledore
+hagrid,Rubeus Hagrid
+neville,Neville Longbottom
+ginny,Ginny Weasley
+george,George Weasley
+fred,Fred Weasley
+ron,Ron Weasley
